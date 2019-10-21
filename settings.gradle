@@ -1,0 +1,2 @@
+include ':app', ':yis-plugin'
+rootProject.name='AndroidGradlePluginStudy'
