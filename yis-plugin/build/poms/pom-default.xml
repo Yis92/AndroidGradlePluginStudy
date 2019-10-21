@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.yislugins</groupId>
   <artifactId>YiPlugin</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <name>The Android Plugin for Totcy.</name>
   <url>https://github.com/792814781/gradle-plugin-test</url>
   <licenses>

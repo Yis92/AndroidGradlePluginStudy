@@ -6,7 +6,7 @@ apply plugin: 'maven'
 
 //使用： classpath 'com.yislugins:YiPlugin:1.0.1'
 group = "com.yislugins"
-version = "1.0.2"
+version = "1.0.3"
 project.archivesBaseName = "YiPlugin"//对应bintray中创建的包名
 
 task javadocJar(type: Jar, dependsOn: javadoc) {
